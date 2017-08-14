@@ -77,7 +77,7 @@
 
 ## Safari
 
-Горячие клавиши: `key:Ctrl+Shift+I`, `key:Ctrl+Alt+C` для Mac -- `key:Cmd` вместо `key:Ctrl`.
+Горячие клавиши: `key:Ctrl+Alt+I`, `key:Ctrl+Alt+C` для Mac -- `key:Cmd` вместо `key:Ctrl`.
 
 Для доступа к функционалу разработки через меню:
 
